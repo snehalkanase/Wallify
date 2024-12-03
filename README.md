@@ -40,19 +40,9 @@ To clone the project from GitHub and run it locally, follow these steps:
 
 1. Open your terminal or command prompt. 💻
 2. Navigate to the directory where you want to clone the project.
-3. Run the following command to clone the project repository:
+3. Run the following command to clone the project repository
     
-    ```bash
-    git clone <https://github.com/cokelemonice/thewalls.git>
-    
-    ```
-    
-4. Once the cloning process is complete, navigate into the project directory:
-    
-    ```bash
-    cd thewalls
-    
-    ```
+4. Once the cloning process is complete, navigate into the project directory
     
 5. Install the project dependencies by running the following command:
     
