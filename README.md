@@ -9,54 +9,6 @@ Before you begin, make sure you have the following installed on your machine:
 
 - [Node.js](https://nodejs.org/en/download/): Make sure to install the LTS version of Node.js. 📥
 
-## Contribution Guidelines
-
-To ensure a smooth and collaborative development process, please follow these guidelines:
-
-1. Fork the project repository on GitHub. 🍴
-2. Clone your forked repository to your local machine using the following command:
-    
-    ```bash
-    git clone <https://github.com/your-username/thewalls.git>
-    
-    ```
-    
-3. Go to the project directory:
-    
-    ```bash
-    cd thewalls
-    
-    ```
-    
-4. Create a new branch for your contribution using a descriptive name:
-    
-    ```bash
-    git checkout -b feature/your-feature-name
-    
-    ```
-    
-5. Make your desired changes or additions to the project codebase. ✨
-6. Test your changes locally to ensure they work as intended. ✔️
-7. Commit your changes with a clear and descriptive commit message:
-    
-    ```bash
-    git commit -m "Add your commit message here"
-    
-    ```
-    
-8. Push your changes to your forked repository:
-    
-    ```bash
-    git push origin feature/your-feature-name
-    
-    ```
-    
-9. Open a pull request from your forked repository to the main project repository. 📤
-10. Provide a detailed description of your changes and the rationale behind them in the pull request. 📝
-11. Ensure that your contribution adheres to the project's code style and guidelines. 📋
-12. Be responsive to any feedback or questions from the project maintainers during the review process. 💬
-13. Once your pull request is approved and merged, your contribution will become part of the project. 🎉
-
 # How to Create a Developer Account on Spotify
 
 If you're interested in integrating Spotify features into your applications or projects, you'll need to create a developer account on Spotify. Follow the steps below to get started:
