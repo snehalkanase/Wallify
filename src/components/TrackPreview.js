@@ -39,7 +39,7 @@ const TrackPreview = ({ track }) => {
             audioRef.current.currentTime = 0;
             setIsPlaying(false);
         }
-    }, [isTouching, track.preview_url]);
+    }, [isTouching, track.preview_url, isPlaying]);
 
     const handleMouseEnter = () => {
         setIsTouching(false);
