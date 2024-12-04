@@ -76,3 +76,4 @@ Thank you for choosing wallify! We hope you enjoy using it and look forward to y
 ---
 
 *This getting started guide is inspired by the [Appwrite](https://github.com/appwrite/appwrite) project's [README.md](http://readme.md/) file.* 📚
+ 
