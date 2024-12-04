@@ -17,7 +17,7 @@ const Privacypolicy = () => {
         <p>
           While we ensure that your data is not being stored or misused, if you wish to revoke the app’s access to your account, you can visit your
           <a href="http://www.spotify.com/account/apps/?_ga=2.57194153.2059435232.1677244602-1044990631.1616788427">Spotify Apps page</a>
-          and click 'REMOVE ACCESS' next to Walls.
+          and click REMOVE ACCESS next to Walls.
           <a href="https://support.spotify.com/us/article/spotify-on-other-apps/">Here</a> is a more detailed guide on how to do this.
         </p>
       </div>
