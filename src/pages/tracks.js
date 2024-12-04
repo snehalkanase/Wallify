@@ -371,12 +371,12 @@ const Tracks = ({ }) => {
             }
         }
         f();
-    },)
+    },[])
     useEffect(() => {
         if (router.isReady) {
             setTimeRange(time_range)
         }
-    }, [time_range, router.isReady])
+    }, [])
 
     function debounce(func, timeout = 300) {
         let timer;
