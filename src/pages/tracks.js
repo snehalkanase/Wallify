@@ -371,8 +371,7 @@ const Tracks = ({ }) => {
             }
         }
         f();
-    }, [session, timeRange, getTopTracks,getuserprofile, router ])
-
+    },)
     useEffect(() => {
         if (router.isReady) {
             setTimeRange(time_range)
